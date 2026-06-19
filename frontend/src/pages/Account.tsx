@@ -86,6 +86,7 @@ export default function Account() {
         }
     }
 
+    
     return (
         <div className="m-8">
             <section className="bg-white p-8 rounded-2xl border border-slate-200 shadow-sm">
